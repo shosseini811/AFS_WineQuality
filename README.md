@@ -22,5 +22,5 @@ Each one of the wine samples was evaluated by a  minimum of three sensory assess
 
 ![alt text](https://github.com/shosseini811/AFS_WineQuality/blob/17532a9f127eadd9a8a63ead6865cb3d3172b814/Image/Correlation.png)
 
-
+### The results, based on the use of the Q2 criterion to find the number of components
 ![alt_text](https://github.com/shosseini811/AFS_WineQuality/blob/edcf653fa47b5c385b6615dec54c5d3142e8a3ae/Image/Q2_criterion.png)
