@@ -10,7 +10,10 @@ Data: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 
 ### Description of attributes
+The data consists of 11 features which are: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol; and 1 output variable which is quality of wine. There are two data sets for red and white wine types. Data sets will be concatenated, and general model is going to be trained for both red and white wine types.
+
 Each one of the wine samples was evaluated by a  minimum of three sensory assessors, using blind tastes,  which graded the wine on a  scale that ranges from  0  to  10,  that matches to very bad to excellent quality,  respectively.  The final score is given by  the median of these evaluations,  which corresponds to the output variable.  
+
 
 
 
