@@ -3,10 +3,16 @@
 ## Problem Statement: 
 Using partial least squares regression for generalized linear models (the plsRglm package in R) using caret package, build an ensemble model to predict the quality score given to each wine from the Vinho Verde region of Portugal.
 
-## Project Objective: 
+### Project Objective: 
 Predict the quality of Wine
 
 Data: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+
+
+### Description of attributes
+Each one of the wine samples was evaluated by a  minimum of three sensory assessors, using blind tastes,  which graded the wine on a  scale that ranges from  0  to  10,  that matches to very bad to excellent quality,  respectively.  The final score is given by  the median of these evaluations,  which corresponds to the output variable.  
+
+
 
 
 ## Correlation between features
