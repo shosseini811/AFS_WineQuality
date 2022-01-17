@@ -14,7 +14,8 @@ The data consists of 11 features which are: fixed acidity, volatile acidity, cit
 
 Each one of the wine samples was evaluated by a  minimum of three sensory assessors, using blind tastes,  which graded the wine on a  scale that ranges from  0  to  10,  that matches to very bad to excellent quality,  respectively.  The final score is given by  the median of these evaluations,  which corresponds to the output variable.  
 
-
+### Using boxplot to find and remove outliers
+![alt text](https://github.com/shosseini811/AFS_WineQuality/blob/9025ea8cd9d5efdbd11ff1b32389839462df0c34/Image/boxplot.png)
 
 
 
