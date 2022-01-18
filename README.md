@@ -1,5 +1,3 @@
-# AFS_WineQuality
-
 ## Problem Statement: 
 Using partial least squares regression for generalized linear models (the plsRglm package in R) using caret package, build an ensemble model to predict the quality score given to each wine from the Vinho Verde region of Portugal.
 
