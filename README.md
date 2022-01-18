@@ -17,8 +17,11 @@ Each one of the wine samples was evaluated by a  minimum of three sensory assess
 Here is information about the predictors and target of the dataset.
 
 1 - fixed acidity: most acids involved with wine or fixed or nonvolatile (do not evaporate readily)
+
 2 - volatile acidity: the amount of acetic acid in wine, which at too high of levels can lead to an unpleasant, vinegar taste
+
 3 - citric acid: found in small quantities, citric acid can add ‘freshness’ and flavor to wines
+
 4 - residual sugar: the amount of sugar remaining after fermentation stops, it’s rare to find wines with less than 1 gram/liter, and wines with greater than 45 grams/liter are considered sweet
 5 - chlorides: the amount of salt in the wine
 6 - free sulfur dioxide: the free form of SO2 exists in equilibrium between molecular SO2 (as a dissolved gas) and bisulfite ion; it prevents microbial growth and the oxidation of wine
