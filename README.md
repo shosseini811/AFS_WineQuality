@@ -70,3 +70,6 @@ NK, number of times the group division is made, is set to 20.
 The results, based on the use of the Q2 criterion, shown in below confirm those of the first 5-fold CV cross validation. We decide to retain 1 components.
 
 ![alt_text](https://github.com/shosseini811/AFS_WineQuality/blob/edcf653fa47b5c385b6615dec54c5d3142e8a3ae/Image/Q2_criterion.png)
+
+Then, the model is trained based and tests on datasets.
+
