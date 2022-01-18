@@ -20,6 +20,8 @@ Each one of the wine samples was evaluated by a  minimum of three sensory assess
 
 
 ## Correlation between features
+As it is shown some features are highly correlated for instance, alchohol and density which actually can cause Multicollinearity. Fortunately, Partial least squares regression is a powerful and frequently applied technique in multivariate statistical process control when the process variables are highly correlated. 
+
 
 ![alt text](https://github.com/shosseini811/AFS_WineQuality/blob/17532a9f127eadd9a8a63ead6865cb3d3172b814/Image/Correlation.png)
 
