@@ -58,9 +58,10 @@ a) Data Splitting:
 
 Splitting data using Caret package 80% training set and 20% test set.
 
-In this studym we will use formular specification of the PLS model.
+In this study, we will use formular specification of the PLS model.
 
 cv.modpls<-cv.plsR(quality~.,data=data,nt=10, NK=20)
+
 We use the default value, k=5 to perform repeated k-fold cross validation, We set the maximum number of components to 10 for the cross-validation function cv.plsR.
 NK, number of times the group division is made, is set to 20.
 
