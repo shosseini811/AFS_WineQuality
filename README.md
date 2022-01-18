@@ -43,6 +43,7 @@ Output variable (based on sensory data):
 
 
 ### Using boxplot to find and remove outliers
+It is shown below that every feature has several outliers. Some models, in our case PLS, are sensitive to outliers. Therefore, we are going to use Boxplot to detect and remove outliers. 
 ![alt text](https://github.com/shosseini811/AFS_WineQuality/blob/9025ea8cd9d5efdbd11ff1b32389839462df0c34/Image/boxplot.png)
 
 
