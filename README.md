@@ -50,7 +50,9 @@ It is shown below that every feature has several outliers. Some models, in our c
 
 
 ## Correlation between features
-As it is shown some features are highly correlated for instance, alchohol and density which actually can cause Multicollinearity. Fortunately, Partial least squares regression is a powerful and frequently applied technique in multivariate statistical process control when the process variables are highly correlated. 
+As it is shown below, some features are highly correlated for instance, alchohol and density which actually can cause Multicollinearity. Fortunately, Partial least squares regression is a powerful and frequently applied technique in multivariate statistical process control when the process variables are highly correlated. 
+
+![alt text](https://github.com/shosseini811/AFS_WineQuality/blob/759271d4b55702fcf24b1c94658f12cf74219c54/Image/Correlation.png)
 
 ### Modeling, Training and Testing
 
