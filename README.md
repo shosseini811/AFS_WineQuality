@@ -28,7 +28,6 @@ Here is information about the predictors and target of the dataset.
 10 - sulfates: a wine additive that can contribute to sulfur dioxide gas (S02) levels, which acts as an antimicrobial and antioxidant
 11 - alcohol: the percent alcohol content of the wine
 Output variable (based on sensory data): 12 - quality (score between 0 and 10)
-![image](https://user-images.githubusercontent.com/60949035/149853088-d0220207-8d73-4b3f-b005-954e753b2d27.png)
 
 
 ### Using boxplot to find and remove outliers
