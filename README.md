@@ -42,6 +42,9 @@ Output variable (based on sensory data):
 
 12 - **quality** (score between 0 and 10)
 
+### Exploratory data analysis
+This link [text] (https://rpubs.com/Daria/57835)is a good resource to look at the insights from the data.
+
 
 ### Using boxplot to find and remove outliers
 It is shown below that every feature has several outliers. Some models, in our case PLS, are sensitive to outliers. Therefore, we are going to use Boxplot to detect and remove outliers. 
