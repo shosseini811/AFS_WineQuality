@@ -71,5 +71,5 @@ The results, based on the use of the Q2 criterion, shown in below confirm those 
 
 ![alt_text](https://github.com/shosseini811/AFS_WineQuality/blob/edcf653fa47b5c385b6615dec54c5d3142e8a3ae/Image/Q2_criterion.png)
 
-Then, the model is trained based and tests on datasets.
+Then, the model is trained based and tested on datasets.
 
