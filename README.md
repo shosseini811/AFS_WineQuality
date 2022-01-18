@@ -42,6 +42,18 @@ Output variable (based on sensory data):
 
 12 - **quality** (score between 0 and 10)
 
+
+### Partial least squares (PLS)
+Partial least squares (PLS) regression is a powerful and frequently applied technique in multivariate statistical process control when the process variables are highly correlated. The selection of the number of latent variables to build a representative model is an important issue [1]. 
+Before performing PLS, the predictors should be centered and scaled, especially if the predictors are on scales of differing magnitude.
+PLS will seek directions of maximum variation while simultaneously considering correlation with the response. Even with the constraint of correlation with the response, it will be more naturally drawn towards predictors with large variation. Therefore, predictors should be adequately preprocessed before performing PLS.
+For more information about PLS, please look at [1].
+
+
+
+
+
+
 ### Exploratory data analysis
 This [link](https://rpubs.com/Daria/57835) is a good resource to look at the insights from the data.
 
@@ -79,4 +91,10 @@ The results, based on the use of the Q2 criterion, shown in below confirm those 
 Then, the model is trained based and tested on datasets. Mean absolute error (MAE) for test dataset is shown below.
 
 ![alt text](https://github.com/shosseini811/AFS_WineQuality/blob/9ea0d003e8a126489992737e01cf4354d3aa3047/Image/predictions.png)
+
+
+
+#### References:
+[1] Bastien, P., Vinzi, V.E. and Tenenhaus, M., 2005. PLS generalised linear regression. Computational Statistics & data analysis, 48(1), pp.17-46.
+
 
