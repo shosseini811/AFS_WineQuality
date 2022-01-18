@@ -38,7 +38,8 @@ Here is information about the predictors and target of the dataset.
 
 11 - **alcohol**: the percent alcohol content of the wine
 
-Output variable (based on sensory data): 12 - quality (score between 0 and 10)
+Output variable (based on sensory data): 
+12 - **quality** (score between 0 and 10)
 
 
 ### Using boxplot to find and remove outliers
