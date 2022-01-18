@@ -58,5 +58,11 @@ a) Data Splitting:
 
 Splitting data using Caret package 80% training set and 20% test set.
 
+In this studym we will use formular specification of the PLS model.
+
+cv.modpls<-cv.plsR(quality~.,data=data,nt=10, NK=20)
+We use the default value, k=5 to perform repeated k-fold cross validation, We set the maximum number of components to 10 for the cross-validation function cv.plsR.
+NK, number of times the group division is made, is set to 20.
+
 ### The results, based on the use of the Q2 criterion to find the number of components
 ![alt_text](https://github.com/shosseini811/AFS_WineQuality/blob/edcf653fa47b5c385b6615dec54c5d3142e8a3ae/Image/Q2_criterion.png)
