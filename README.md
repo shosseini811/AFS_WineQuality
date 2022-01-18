@@ -45,6 +45,7 @@ Output variable (based on sensory data):
 
 ### Partial least squares (PLS)
 Partial least squares (PLS) regression is a powerful and frequently applied technique in multivariate statistical process control when the process variables are highly correlated. The selection of the number of latent variables to build a representative model is an important issue [1]. 
+
 Before performing PLS, the predictors should be centered and scaled, especially if the predictors are on scales of differing magnitude.
 PLS will seek directions of maximum variation while simultaneously considering correlation with the response. Even with the constraint of correlation with the response, it will be more naturally drawn towards predictors with large variation. Therefore, predictors should be adequately preprocessed before performing PLS.
 For more information about PLS, please look at [1].
