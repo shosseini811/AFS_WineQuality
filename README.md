@@ -93,7 +93,8 @@ Then, the model is trained based and tested on datasets. Mean absolute error (MA
 
 ![alt text](https://github.com/shosseini811/AFS_WineQuality/blob/9ea0d003e8a126489992737e01cf4354d3aa3047/Image/predictions.png)
 
-
+Feature Importance can be used to see what attributes are the most important one and have higher effect on quality.
+![alt text](https://github.com/shosseini811/AFS_WineQuality/blob/7b99ec6b4cb97c964e90c8e97c012b5755d1ec00/Image/FeatureImportance.png)
 
 #### References:
 [1] Bastien, P., Vinzi, V.E. and Tenenhaus, M., 2005. PLS generalised linear regression. Computational Statistics & data analysis, 48(1), pp.17-46.
